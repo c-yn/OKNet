@@ -1,2 +1,2 @@
-# OKNet
-[AAAI2024] Omni-Kernel Network for Image Restoration
+# Omni-Kernel Network for Image Restoration
+Yuning Cui, Wenqi Ren, Alois Knoll

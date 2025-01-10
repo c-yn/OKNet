@@ -24,6 +24,8 @@ cd ..
 ~~~
 
 ITS FLOPs: 39.67G, Params: 4.72M
+Training and testing details can be found in the individual directories.
+
 
 ## [Images](https://drive.google.com/drive/folders/1FuaHw5Wr9PTSKAKn2qEuE-IN1Ye-O8Xj?usp=sharing)
 

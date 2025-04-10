@@ -23,6 +23,10 @@ python setup.py install
 cd ..
 ~~~
 
+Please download pillow package using Conda instead of pip.
+
+
+
 ITS FLOPs: 39.67G, Params: 4.72M
 Training and testing details can be found in the individual directories.
 

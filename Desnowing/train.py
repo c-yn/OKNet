@@ -22,7 +22,7 @@ def _train(model, args):
     scheduler.step()
     epoch = 1
     if args.resume:
-        state = torch.load(args.resume)
+        state = torch.load(args.resume, weights_only=True)
         epoch = state['epoch']
         optimizer.load_state_dict(state['optimizer'])
         model.load_state_dict(state['model'])
